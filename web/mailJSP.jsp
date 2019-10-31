@@ -21,9 +21,9 @@
     final String messg = request.getParameter("mess");
 
     // Sender's email ID and password needs to be mentioned
-    final String from = "shemaclaude200@gmail.com";
+    final String from = "Your_email";
 
-    final String pass = "claude200";
+    final String pass = Email_Password
 
     // Defining the gmail host
     String host = "smtp.gmail.com";
