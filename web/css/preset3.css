@@ -1,0 +1,170 @@
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+a {
+  color: #0077bb;
+}
+a:hover {
+  color: #a2842c;
+  text-decoration: none;
+}
+button,
+.btn,
+.btn-primary,
+.btn-large,
+input#submitCommentButton,
+.readmore,
+.btn-inverse {
+  background-color: #0077bb;
+}
+body {
+  color: #666;
+}
+body.bg {
+  background: #fcfcca;
+}
+#sp-header-wrapper .logo {
+  background-image: url(../images/presets/preset3/logo.html);
+}
+#menu {
+  border-bottom: 5px solid #ebde98;
+}
+#sp-main-menu ul.level-0 > li:hover,
+#sp-main-menu ul.level-0 > li.active {
+  background: #ebde98;
+}
+.sp-submenu .sp-submenu-wrap {
+  background-color: #ebde98;
+
+}
+#sp-menu-wrapper.menu-fixed {
+  background: #0077bb;
+}
+.layout-slideshow h2.sprocket-features-title {
+  background-color: rgba(64, 120, 241, 0.9) !important;
+}
+.layout-slideshow h2.sprocket-features-title:hover {
+  background: #0077bb !important;
+}
+.layout-slideshow .sprocket-features-arrows .arrow:hover {
+  background: #0077bb !important;
+}
+.layout-slideshow .sprocket-features-pagination li.active {
+  background: #0077bb !important;
+}
+.hot .sprocket-strips .sprocket-strips-container >li .sprocket-strips-item .sprocket-strips-content h4.sprocket-strips-title {
+  background-color: rgba(200,164,55,0.7) !important;
+}
+.ts-featured .sprocket-mosaic .sprocket-mosaic-loadmore:hover {
+  background: #0077bb;
+}
+.ts-featured .sprocket-mosaic .sprocket-mosaic-header .sprocket-mosaic-filter li.active {
+  color: #0077bb;
+}
+.ts-featured .sprocket-mosaic .sprocket-mosaic-container .sprocket-mosaic-item .sprocket-padding ul.sprocket-mosaic-tags li {
+  background: #0077bb;
+}
+.ts-featured .sprocket-mosaic .sprocket-mosaic-container .sprocket-mosaic-item .sprocket-padding .sprocket-mosaic-image-container:after {
+  background-color: rgba(200,164,55,0.7);
+}
+.highlights .sprocket-strips .sprocket-strips-container >li .sprocket-strips-item:after {
+  background-color: rgba(200,164,55,0.8);
+}
+.feature-tab .gkTabsWrap.vertical ol,
+.feature-tab .gkTabsWrap.horizontal > ol {
+  background: #0077bb;
+}
+.feature-tab .gkTabsWrap.vertical ol li.active,
+.feature-tab .gkTabsWrap.horizontal ol li.active {
+  color: #0077bb;
+}
+.sp-tweet {
+  background: #0077bb;
+}
+.acymailing_form .acysubbuttons .button {
+  background: #0077bb !important;
+}
+#sp-footer-wrapper #sp-footer2 .sp-totop i {
+  background: #0077bb;
+}
+#sp-footer-wrapper #sp-footer2 .sp-totop i:hover {
+  background: #a2842c;
+}
+#sp-footer-wrapper #sp-footer2 ul.nav > li a:hover {
+  color: #0077bb;
+}
+.catItemCommentsLink {
+  background: #0077bb;
+}
+h1 > span > sup,
+h2 > span > sup {
+  background: #0077bb;
+}
+span.itemDateCreated {
+  color: #0077bb;
+}
+div.itemAuthorLatest ul li {
+  color: #0077bb;
+}
+span.lcComment {
+  color: #666;
+}
+span.lcComment:hover {
+  color: #0077bb;
+}
+div.k2CategoriesListBlock ul li a,
+div.k2ArchivesBlock ul li a {
+  color: #666;
+  -webkit-transition: 400ms;
+  -moz-transition: 400ms;
+  -o-transition: 400ms;
+  transition: 400ms;
+}
+div.k2CategoriesListBlock ul li a:hover,
+div.k2ArchivesBlock ul li a:hover {
+  color: #0077bb;
+  padding-left: 10px;
+}
+table.calendar tr td.calendarDateLinked a:hover,
+table.calendar tr td.calendarToday {
+  background: #0077bb;
+}
+div.k2TagCloudBlock a:hover {
+  background: #0077bb;
+}
+.title h3.header span:before {
+  background: #0077bb;
+}
+.title h3.header span:after {
+  border-color: rgba(0,0,0,0) rgba(0,0,0,0) #0077bb rgba(0,0,0,0);
+}
+.title.default h3.header span:before {
+  background: #0077bb;
+}
+.title.default h3.header span:after {
+  border-color: #0077bb rgba(0,0,0,0) rgba(0,0,0,0) rgba(0,0,0,0);
+}
